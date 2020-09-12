@@ -1,0 +1,12 @@
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro de usuário - Programação de Computadores.csprojAssemblyReference.cache
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro_de_usuário___Programação_de_Computadores.Cadastro.resources
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro_de_usuário___Programação_de_Computadores.Form1.resources
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro_de_usuário___Programação_de_Computadores.Properties.Resources.resources
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro de usuário - Programação de Computadores.csproj.GenerateResource.cache
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\bin\Debug\Cadastro de usuário - Programação de Computadores.exe.config
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\bin\Debug\Cadastro de usuário - Programação de Computadores.exe
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\bin\Debug\Cadastro de usuário - Programação de Computadores.pdb
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro de usuário - Programação de Computadores.exe
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro de usuário - Programação de Computadores.pdb
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro_de_usuário___Programação_de_Computadores.Excluir.resources
+C:\Users\luanm\Desktop\trabs martin\Cadastro de usuário - Programação de Computadores\Cadastro de usuário - Programação de Computadores\obj\Debug\Cadastro_de_usuário___Programação_de_Computadores.AlterarDados.resources
