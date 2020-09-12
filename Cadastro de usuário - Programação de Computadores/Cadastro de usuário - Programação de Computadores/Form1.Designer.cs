@@ -50,6 +50,7 @@
             // 
             this.rTextBoxNome.Location = new System.Drawing.Point(12, 226);
             this.rTextBoxNome.Name = "rTextBoxNome";
+            this.rTextBoxNome.ReadOnly = true;
             this.rTextBoxNome.Size = new System.Drawing.Size(337, 342);
             this.rTextBoxNome.TabIndex = 0;
             this.rTextBoxNome.Text = "";
@@ -98,6 +99,7 @@
             // 
             this.rTextBoxNascimento.Location = new System.Drawing.Point(355, 226);
             this.rTextBoxNascimento.Name = "rTextBoxNascimento";
+            this.rTextBoxNascimento.ReadOnly = true;
             this.rTextBoxNascimento.Size = new System.Drawing.Size(167, 342);
             this.rTextBoxNascimento.TabIndex = 5;
             this.rTextBoxNascimento.Text = "";
@@ -106,6 +108,7 @@
             // 
             this.rTextBoxTelefone.Location = new System.Drawing.Point(528, 226);
             this.rTextBoxTelefone.Name = "rTextBoxTelefone";
+            this.rTextBoxTelefone.ReadOnly = true;
             this.rTextBoxTelefone.Size = new System.Drawing.Size(167, 342);
             this.rTextBoxTelefone.TabIndex = 6;
             this.rTextBoxTelefone.Text = "";
@@ -114,6 +117,7 @@
             // 
             this.rTextBoxRg.Location = new System.Drawing.Point(701, 226);
             this.rTextBoxRg.Name = "rTextBoxRg";
+            this.rTextBoxRg.ReadOnly = true;
             this.rTextBoxRg.Size = new System.Drawing.Size(167, 342);
             this.rTextBoxRg.TabIndex = 7;
             this.rTextBoxRg.Text = "";
@@ -122,6 +126,7 @@
             // 
             this.rTextBoxAltura.Location = new System.Drawing.Point(874, 226);
             this.rTextBoxAltura.Name = "rTextBoxAltura";
+            this.rTextBoxAltura.ReadOnly = true;
             this.rTextBoxAltura.Size = new System.Drawing.Size(103, 342);
             this.rTextBoxAltura.TabIndex = 8;
             this.rTextBoxAltura.Text = "";
@@ -130,6 +135,7 @@
             // 
             this.rTextBoxPeso.Location = new System.Drawing.Point(983, 226);
             this.rTextBoxPeso.Name = "rTextBoxPeso";
+            this.rTextBoxPeso.ReadOnly = true;
             this.rTextBoxPeso.Size = new System.Drawing.Size(103, 342);
             this.rTextBoxPeso.TabIndex = 9;
             this.rTextBoxPeso.Text = "";
